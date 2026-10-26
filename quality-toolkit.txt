@@ -2,3 +2,4 @@ Quality Automation Toolkit
 Version: Initial Development
 Feature: Basic QA test execution
 Feature: Regression test execution
+Fix: Corrected regression test reporting
