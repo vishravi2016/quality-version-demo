@@ -1,2 +1,3 @@
 Quality Automation Toolkit
 Version: Initial Development
+Feature: Basic QA test execution
